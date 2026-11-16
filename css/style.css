@@ -6566,9 +6566,21 @@ h6 {
   --brand-border: #b9e8e7;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 85px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
 .header-area .main-header-area .logo img {
-  width: 190px;
+  width: 220px;
   max-width: 100%;
+  height: auto;
 }
 
 .slider_area .dog_thumb {
@@ -6595,7 +6607,7 @@ h6 {
 
 @media (max-width: 767px) {
   .header-area .main-header-area .logo img {
-    width: 170px;
+    width: 195px;
   }
 
   .slider_area .dog_thumb {
