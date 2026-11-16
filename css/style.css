@@ -22,9 +22,9 @@
 
 /* line 19, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_extend.scss */
 .boxed-btn3 {
-  background-image: -moz-linear-gradient(0deg, #f14437 0%, #ed5b0d 99%);
-  background-image: -webkit-linear-gradient(0deg, #f14437 0%, #ed5b0d 99%);
-  background-image: -ms-linear-gradient(0deg, #f14437 0%, #ed5b0d 99%);
+  background-image: -moz-linear-gradient(0deg, #087f83 0%, #28c6c4 99%);
+  background-image: -webkit-linear-gradient(0deg, #087f83 0%, #28c6c4 99%);
+  background-image: -ms-linear-gradient(0deg, #087f83 0%, #28c6c4 99%);
 }
 
 /* Normal desktop :1200px. */
@@ -87,7 +87,7 @@ button {
 /* line 37, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_reset.scss */
 h1, h2, h3, h4, h5 {
   font-family: "Poppins", sans-serif;
-  color: #191d34;
+  color: #15363e;
 }
 
 /* line 41, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_reset.scss */
@@ -324,7 +324,7 @@ h3 {
 /* line 236, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_reset.scss */
 .owl-carousel:hover .owl-nav div:hover {
   color: #fff;
-  background: #ff3500;
+  background: #087f83;
 }
 
 /* line 245, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_reset.scss */
@@ -354,26 +354,26 @@ h3 {
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_btn.scss */
 .boxed-btn {
   background: #fff;
-  color: #ff3500;
+  color: #087f83;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #ff3500;
+  border: 1px solid #087f83;
   letter-spacing: 3px;
   text-align: center;
-  color: #ff3500 !important;
+  color: #087f83 !important;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 /* line 17, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_btn.scss */
 .boxed-btn:hover {
-  background: #ff3500;
+  background: #087f83;
   color: #fff !important;
-  border: 1px solid #ff3500;
+  border: 1px solid #087f83;
 }
 
 /* line 22, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_btn.scss */
@@ -418,7 +418,7 @@ h3 {
   font-size: 16px;
   font-weight: 500;
   border: 1px solid transparent;
-  color: #ff3500;
+  color: #087f83;
   padding: 17px 50px;
   font-family: "Poppins", sans-serif;
   display: inline-block;
@@ -429,9 +429,9 @@ h3 {
 
 /* line 59, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_btn.scss */
 .boxed-btn4:hover {
-  background: #ff3500;
+  background: #087f83;
   color: #fff;
-  border: 1px solid #ff3500;
+  border: 1px solid #087f83;
 }
 
 /* line 64, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_btn.scss */
@@ -518,7 +518,7 @@ h3 {
   font-size: 50px;
   font-weight: 700;
   line-height: 60px;
-  color: #191d34;
+  color: #15363e;
   font-family: "Poppins", sans-serif;
 }
 
@@ -574,7 +574,7 @@ h3 {
 /* line 38, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_section_title.scss */
 .section_title2 i {
   font-size: 45px;
-  color: #BC9321;
+  color: #f2a13a;
   display: block;
 }
 
@@ -583,7 +583,7 @@ h3 {
   font-size: 42px;
   font-weight: 400;
   line-height: 52px;
-  color: #ff3500;
+  color: #087f83;
   position: relative;
   padding-bottom: 30px;
   margin-top: 10px;
@@ -595,7 +595,7 @@ h3 {
   content: "";
   width: 80px;
   height: 1px;
-  background: #BC9321;
+  background: #f2a13a;
   bottom: 0;
   left: 50%;
   margin-left: -40px;
@@ -1140,7 +1140,7 @@ h3 {
 
 /* line 170, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li:hover > a {
-  color: #eb592d !important;
+  color: #087f83 !important;
 }
 
 /* line 173, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
@@ -1284,7 +1284,7 @@ h3 {
 
 /* line 264, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .header-top_area .social_media_links a:hover {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 269, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
@@ -1326,7 +1326,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner_petlovers.png);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slider.scss */
@@ -1711,7 +1711,7 @@ h3 {
 /* line 19, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_prising.scss */
 .prising_area .prise_title h4 {
   font-size: 25px;
-  color: #eb592d;
+  color: #087f83;
   margin-bottom: 35px;
 }
 
@@ -1755,7 +1755,7 @@ h3 {
 /* line 51, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_prising.scss */
 .prising_area .single_service .hair_style_info .prise span {
   font-size: 16px;
-  color: #222222;
+  color: #15363e;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1845,7 +1845,7 @@ h3 {
 /* line 121, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_prising.scss */
 .prising_area .owl-carousel .owl-nav div:hover {
   background: #F91842;
-  border-color: #eb592d;
+  border-color: #087f83;
   color: #fff  !important;
 }
 
@@ -1997,7 +1997,7 @@ h3 {
 .team_area .single_team .member_name .mamber_inner h4 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  color: #222222;
+  color: #15363e;
   margin-bottom: 0;
 }
 
@@ -2503,7 +2503,7 @@ h3 {
   border-radius: 50%;
   display: inline-block;
   font-size: 22px;
-  color: #ff3500;
+  color: #087f83;
   line-height: 94px;
   text-align: center;
   top: 50%;
@@ -2752,7 +2752,7 @@ h3 {
 
 /* line 80, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget p a:hover {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 86, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
@@ -2772,8 +2772,8 @@ h3 {
 
 /* line 95, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget p.footer_text a.domain:hover {
-  color: #eb592d;
-  border-bottom: 1px solid #eb592d;
+  color: #087f83;
+  border-bottom: 1px solid #087f83;
 }
 
 /* line 101, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
@@ -2784,8 +2784,8 @@ h3 {
 
 /* line 105, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget p.footer_text.doanar a:hover {
-  color: #eb592d;
-  border-bottom: 1px solid #eb592d;
+  color: #087f83;
+  border-bottom: 1px solid #087f83;
 }
 
 /* line 109, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
@@ -2809,7 +2809,7 @@ h3 {
 
 /* line 125, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget ul li a:hover {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 131, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
@@ -2853,7 +2853,7 @@ h3 {
   border: none;
   font-size: 14px;
   color: #fff;
-  background: #eb592d;
+  background: #087f83;
   padding: 10px;
   padding: 0 22px;
   cursor: pointer;
@@ -2916,7 +2916,7 @@ h3 {
 
 /* line 206, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right a {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 211, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
@@ -2952,7 +2952,7 @@ h3 {
 
 /* line 235, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_footer.scss */
 .footer .socail_links ul li a:hover {
-  color: #eb592d !important;
+  color: #087f83 !important;
   border-color: transparent;
 }
 
@@ -2964,7 +2964,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/bradcam_petlovers.png);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_bradcam.scss */
@@ -3346,7 +3346,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_anipat.scss */
 .anipat_bg_1 {
-  background-image: url(../img/banner/contact_bg.png);
+  background-image: url(../img/banner/contact_bg_petlovers.png);
 }
 
 /* line 5, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_anipat.scss */
@@ -3449,7 +3449,7 @@ h3 {
 
 /* line 30, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_contact.scss */
 .contact-info .media-body h3 a:hover {
-  color: #222222;
+  color: #15363e;
 }
 
 /* line 36, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_contact.scss */
@@ -3571,7 +3571,7 @@ h3 {
 
 /* line 141, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_contact.scss */
 .contact-section .btn_2 {
-  background-color: #191d34;
+  background-color: #15363e;
   padding: 18px 60px;
   border-radius: 50px;
   margin-top: 0;
@@ -3579,7 +3579,7 @@ h3 {
 
 /* line 146, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_contact.scss */
 .contact-section .btn_2:hover {
-  background-color: #222222;
+  background-color: #15363e;
 }
 
 /* line 75, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
@@ -3600,7 +3600,7 @@ sup,
 sub,
 u,
 del {
-  color: #222222;
+  color: #15363e;
 }
 
 /* line 93, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
@@ -3772,28 +3772,28 @@ h6 {
 /* line 217, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .genric-btn.primary {
   color: #fff;
-  background: #222222;
+  background: #15363e;
   border: 1px solid transparent;
 }
 
 /* line 221, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .genric-btn.primary:hover {
-  color: #222222;
-  border: 1px solid #222222;
+  color: #15363e;
+  border: 1px solid #15363e;
   background: #fff;
 }
 
 /* line 227, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .genric-btn.primary-border {
-  color: #222222;
-  border: 1px solid #222222;
+  color: #15363e;
+  border: 1px solid #15363e;
   background: #fff;
 }
 
 /* line 231, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #222222;
+  background: #15363e;
   border: 1px solid transparent;
 }
 
@@ -3941,7 +3941,7 @@ h6 {
 
 /* line 339, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .genric-btn.disable {
-  color: #222222, 0.3;
+  color: #15363e, 0.3;
   background: #f9f9ff;
   border: 1px solid transparent;
   cursor: not-allowed;
@@ -3951,7 +3951,7 @@ h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #222222;
+  border-left: 2px solid #15363e;
 }
 
 /* line 353, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
@@ -4106,7 +4106,7 @@ h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #222222;
+  border: 3px solid #15363e;
   background: #fff;
   top: 4px;
   left: 0;
@@ -4121,7 +4121,7 @@ h6 {
 /* line 475, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #222222;
+  color: #15363e;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4136,7 +4136,7 @@ h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #222222;
+  color: #15363e;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4151,7 +4151,7 @@ h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #222222;
+  color: #15363e;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4234,7 +4234,7 @@ h6 {
 /* line 568, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #222222;
+  border: 1px solid #15363e;
 }
 
 /* line 574, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
@@ -4302,7 +4302,7 @@ h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #222222;
+  background: #15363e;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -4393,7 +4393,7 @@ h6 {
 
 /* line 696, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .primary-switch input:checked + label:before {
-  background: #222222;
+  background: #15363e;
 }
 
 /* line 704, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
@@ -4780,13 +4780,13 @@ h6 {
 
 /* line 1022, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .default-select .nice-select .list .option.selected {
-  color: #222222;
+  color: #15363e;
   background: transparent;
 }
 
 /* line 1026, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .default-select .nice-select .list .option:hover {
-  color: #222222;
+  color: #15363e;
   background: transparent;
 }
 
@@ -4843,13 +4843,13 @@ h6 {
 
 /* line 1067, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .form-select .nice-select .list .option.selected {
-  color: #222222;
+  color: #15363e;
   background: transparent;
 }
 
 /* line 1071, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_elements.scss */
 .form-select .nice-select .list .option:hover {
-  color: #222222;
+  color: #15363e;
   background: transparent;
 }
 
@@ -4907,7 +4907,7 @@ h6 {
 
 /* line 14, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .blog_area a:hover, .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #eb592d 0%, #eb592d 99%);
+  background: -webkit-linear-gradient(131deg, #087f83 0%, #087f83 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -5026,7 +5026,7 @@ h6 {
 
 /* line 121, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .single-blog .single-blog-content .meta-bottom i {
-  color: #fdcb9e;
+  color: #b9e8e7;
   font-size: 13px;
   margin-right: 7px;
 }
@@ -5413,12 +5413,12 @@ h6 {
 
 /* line 541, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .blog_details a {
-  color: #ff8b23;
+  color: #d98220;
 }
 
 /* line 544, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .blog_details a:hover {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 549, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
@@ -5486,7 +5486,7 @@ h6 {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #eb592d;
+  background-color: #087f83;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -5714,7 +5714,7 @@ h6 {
 
 /* line 842, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #eb592d;
+  background: #087f83;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -5962,7 +5962,7 @@ h6 {
 
 /* line 1208, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
 .single-post-area .blog-author a:hover {
-  color: #eb592d;
+  color: #087f83;
 }
 
 /* line 1213, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog.scss */
@@ -6391,7 +6391,7 @@ h6 {
 
 /* line 72, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_blog_part.scss */
 .blog_part .single-home-blog .card .card-body a {
-  color: #eb592d;
+  color: #087f83;
   text-transform: uppercase;
   -webkit-transition: 0.8s;
   transition: 0.8s;
@@ -6418,7 +6418,7 @@ h6 {
   height: 10px;
   top: 5px;
   left: 0;
-  background-color: #eb592d;
+  background-color: #087f83;
   border-radius: 50%;
 }
 
@@ -6555,3 +6555,184 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+:root {
+  --brand-teal: #28c6c4;
+  --brand-teal-dark: #087f83;
+  --brand-teal-deep: #06676c;
+  --brand-orange: #f2a13a;
+  --brand-ink: #15363e;
+  --brand-soft: #eefafa;
+  --brand-border: #b9e8e7;
+}
+
+.header-area .main-header-area .logo img {
+  width: 190px;
+  max-width: 100%;
+}
+
+.slider_area .dog_thumb {
+  right: 12%;
+  bottom: -34px;
+}
+
+.slider_area .dog_thumb img {
+  width: 390px;
+  max-width: 100%;
+}
+
+@media (max-width: 991px) {
+  .slider_area .dog_thumb {
+    right: 3%;
+    bottom: -18px;
+    width: 48%;
+  }
+
+  .slider_area .dog_thumb img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-area .main-header-area .logo img {
+    width: 170px;
+  }
+
+  .slider_area .dog_thumb {
+    right: 2%;
+    bottom: -12px;
+    width: 42%;
+  }
+}
+
+::selection {
+  background: var(--brand-teal-dark);
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--brand-ink);
+}
+
+a:hover,
+.portfolio-cat a:hover {
+  color: var(--brand-teal-dark);
+}
+
+.header-area .header-top_area {
+  background: var(--brand-teal-dark);
+}
+
+.header-area .header-top_area .social_media_links a:hover {
+  color: var(--brand-orange);
+}
+
+.header-area .main-header-area .main-menu ul li a {
+  color: var(--brand-ink);
+}
+
+.header-area .main-header-area .main-menu ul li:hover > a,
+.header-area .main-header-area .main-menu ul li .submenu li:hover a {
+  color: var(--brand-teal-dark) !important;
+}
+
+.header-area .main-header-area .main-menu ul li a::before {
+  background: var(--brand-teal);
+}
+
+.header-area .main-header-area .main-menu ul li .submenu {
+  border-top: 2px solid var(--brand-teal);
+}
+
+.boxed-btn,
+.book_now {
+  color: var(--brand-teal-dark) !important;
+  border-color: var(--brand-teal-dark);
+}
+
+.boxed-btn:hover,
+.book_now:hover {
+  background: var(--brand-teal-deep);
+  border-color: var(--brand-teal-deep);
+  color: #fff !important;
+}
+
+.boxed-btn3 {
+  background-image: linear-gradient(90deg, var(--brand-teal-dark), var(--brand-teal));
+}
+
+.boxed-btn4 {
+  color: var(--brand-teal-dark);
+}
+
+.boxed-btn4:hover {
+  background: var(--brand-teal-deep);
+  border-color: var(--brand-teal-deep);
+  color: #fff;
+}
+
+.line-button:hover {
+  color: var(--brand-teal-dark);
+}
+
+.line-button:hover::before {
+  background: var(--brand-teal-dark);
+}
+
+.section_title2 i {
+  color: var(--brand-orange);
+}
+
+.section_title2 h3::before {
+  background: var(--brand-orange);
+}
+
+.section_title2 h3 {
+  color: var(--brand-teal-dark);
+}
+
+.service_area .single_service {
+  border-color: var(--brand-border);
+}
+
+.service_area .single_service:hover {
+  border-color: var(--brand-teal);
+}
+
+.footer {
+  background-color: var(--brand-soft);
+}
+
+.footer .footer_widget .footer_title {
+  color: var(--brand-ink);
+}
+
+.footer .footer_widget ul li a:hover,
+.footer .footer_widget p a:hover,
+.footer .footer_widget p.footer_text a.domain:hover {
+  color: var(--brand-teal-dark);
+}
+
+.blog_details a,
+.blog-info-link li a,
+.blog_part .single-home-blog .card .blog_details a,
+.blog-pagination .page-item.active .page-link {
+  color: var(--brand-teal-dark);
+}
+
+.blog-pagination .page-item.active .page-link {
+  background-color: var(--brand-teal-dark);
+  border-color: var(--brand-teal-dark);
+  color: #fff;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--brand-teal-dark);
+}
