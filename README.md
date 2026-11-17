@@ -104,7 +104,3 @@ O endereço público informado para o site é o GitHub Pages:
 [https://eduardo00747.github.io/Projeto-Pet-Lovers/](https://eduardo00747.github.io/Projeto-Pet-Lovers/)
 
 O conteúdo é publicado como arquivos estáticos. Alterações devem ser enviadas ao repositório e publicadas pelo fluxo configurado no GitHub Pages.
-
-## Licença e atribuição
-
-O projeto inclui `readme.txt` com o aviso de licença do template original da Colorlib. Consulte esse arquivo e os termos indicados pelo fornecedor antes de redistribuir o template ou remover atribuições exigidas.
