@@ -34,7 +34,9 @@ O projeto é um site estático e responsivo. O conteúdo e a estrutura ficam em 
 ### Itens que ainda são modelos
 
 - Os números de adoções, consultas e serviços mensais estão fixos no HTML; não vêm de um sistema de dados.
+- A chamada “Mais de 40 anos de experiência” também é conteúdo fixo. Confirme os números e as informações institucionais antes de usá-los como dados atuais.
 - Os depoimentos estão marcados como fictícios. Substitua textos, nomes e fotos por conteúdo autorizado antes de apresentá-los como avaliações reais.
+- A seção da equipe repete o nome “Rala Emaia”. Confirme os nomes e cargos corretos antes da publicação final.
 - Os ícones de redes sociais usam `href="#"` e ainda não apontam para perfis reais.
 - O site não possui formulário de contato ativo. `contact_process.php` e alguns scripts de formulário são arquivos herdados do template e não estão ligados a um formulário da página. Além disso, o GitHub Pages publica arquivos estáticos e não executa PHP.
 

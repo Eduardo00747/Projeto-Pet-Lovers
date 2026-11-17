@@ -274,7 +274,8 @@
           ul{
               li{
                   display: inline-block;
-                  a{
+                  a,
+                  span{
                     font-size: 16px;
                     color: #ffffff;
                     font-family: $font1;
