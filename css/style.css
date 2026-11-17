@@ -6578,8 +6578,8 @@ html {
 }
 
 .header-area .main-header-area .logo img {
-  width: 220px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 380px;
   height: auto;
 }
 
@@ -6607,7 +6607,7 @@ html {
 
 @media (max-width: 767px) {
   .header-area .main-header-area .logo img {
-    width: 195px;
+    width: 263px;
   }
 
   .slider_area .dog_thumb {
