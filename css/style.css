@@ -1060,7 +1060,7 @@ h3 {
 .header-area .main-header-area .main-menu ul li {
   display: inline-block;
   position: relative;
-  margin-left: 40px;
+  margin-left: 16px;
 }
 
 /* line 119, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
@@ -6747,4 +6747,93 @@ input:focus,
 textarea:focus,
 select:focus {
   border-color: var(--brand-teal-dark);
+}
+
+.testmonial_area .textmonial_active .owl-stage {
+  display: flex;
+  align-items: stretch;
+}
+
+.testmonial_area .section_title {
+  margin-bottom: 42px;
+}
+
+.testmonial_area .textmonial_active .owl-item {
+  display: flex;
+  height: auto;
+}
+
+.testmonial_area .textmonial_active .testmonial_wrap {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.testmonial_area .single_testmonial {
+  box-sizing: border-box;
+  display: flex !important;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  min-height: 320px;
+  padding: 42px 56px;
+  border: 1px solid #d9efee;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #ffffff 0%, #fbffff 100%);
+  box-shadow: 0 18px 45px rgba(21, 54, 62, 0.1);
+}
+
+.testmonial_area .single_testmonial .test_thumb {
+  flex: 0 0 130px;
+  width: 130px;
+  height: 130px;
+  margin-right: 32px;
+  padding: 5px;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #f36d64 0%, #f2a13a 100%);
+  box-shadow: 0 8px 20px rgba(21, 54, 62, 0.16);
+}
+
+.testmonial_area .owl-carousel .owl-item .test_thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.testmonial_area .single_testmonial .testimonial-photo-ana {
+  object-position: center 36%;
+}
+
+.testmonial_area .single_testmonial .testimonial-photo-rafael {
+  object-position: center 42%;
+}
+
+.testmonial_area .single_testmonial .testimonial-photo-camila {
+  object-position: center 35%;
+}
+
+.testmonial_area .single_testmonial .test_content {
+  flex: 1 1 auto;
+}
+
+.testmonial_area .single_testmonial .test_content p {
+  line-height: 1.75;
+}
+
+@media (max-width: 767px) {
+  .testmonial_area .single_testmonial {
+    flex-direction: column;
+    justify-content: center;
+    min-height: 0;
+    padding: 30px 24px;
+    text-align: center;
+  }
+
+  .testmonial_area .single_testmonial .test_thumb {
+    flex-basis: 130px;
+    margin: 0 0 24px;
+  }
 }
